@@ -6,4 +6,8 @@ Device Changelogs :-
 - Fixed Lags Settings And On Some Apps
 - Enable full ART optimizations with VDEX/ODEX
 - Disable high performance transitions
+- Defer refresh rate changes when screen is off
+- rootdir: Stop overriding dirty_background_ratio
+- Apply dex2oat optimizations
+- Update wifi hal interfaces combination
 ==============================================================================
