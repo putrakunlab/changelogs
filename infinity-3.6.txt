@@ -3,7 +3,7 @@ Device Changelogs :-
 - User/Signed Build
 - Update fingerprint from firmware: S666LN-MA66BABCDEFLMNQ-T-OP-251212V1661.
 - Drop force triple frame buffers
-- Fixed Lags Settings
+- Fixed Lags Settings And On Some Apps
 - Enable full ART optimizations with VDEX/ODEX
 - Disable high performance transitions
 - Defer refresh rate changes when screen is off
