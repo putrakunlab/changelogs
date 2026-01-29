@@ -14,7 +14,6 @@ Performance & Stability
 
 Audio Enhancements
   ♪ Added Dolby Atmos support
-  ♪ Included JamesDSP for advanced audio tuning
   ♪ Removed Transsion gamemode audio postprocessing
   ✗ Dropped DTS (replaced by Dolby)
 
