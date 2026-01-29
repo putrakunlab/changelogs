@@ -1,0 +1,41 @@
+==============================================================================
+           AviumUI 16 | BP2A/QPR0 | Build: 20260128
+==============================================================================
+
+🔥 WHAT'S NEW
+
+Performance & Stability
+  ✓ Major lag & stutter fixes - Buttery smooth experience
+  ✓ Regenerated vendor from latest stock firmware for max stability
+  ✓ Enhanced buffer management (max_frame_buffer_acquired_buffers)
+  ✓ Switched to mtk-perf for better UI handling
+  ✓ Full ART optimizations enabled (VDEX/ODEX)
+  ✓ Applied dex2oat compiler optimizations
+
+Audio Enhancements
+  ♪ Added Dolby Atmos support
+  ♪ Included JamesDSP for advanced audio tuning
+  ♪ Removed Transsion gamemode audio postprocessing
+  ✗ Dropped DTS (replaced by Dolby)
+
+Memory & Power Management
+  ⚡ ZRAM increased to 60% for better multitasking
+  ⚡ Tuned dalvik heap specifically for 8GB RAM devices
+  ⚡ Optimized LMKD minfree & PSI parameters
+  ⚡ Smart refresh rate management (defers when screen off)
+  ⚡ Removed dirty_background_ratio override
+
+System Optimizations
+  • Updated to stock fingerprint: S666LN-MA66BABCDEFLMNQ-T-OP-251212V1661
+  • Dropped forced triple frame buffers (better RAM efficiency)
+  • Disabled high performance transitions (balanced approach)
+  • Updated WiFi HAL interfaces combination
+
+📦 Build Info
+  • Type: User & Signed Build
+  • Date: January 28, 2026
+  • Target: S666LN
+
+==============================================================================
+         Flash at your own risk | Always backup before flashing
+==============================================================================
