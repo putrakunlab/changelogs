@@ -1,5 +1,5 @@
 Device Changelogs :-
-==============================================================================
+===================================================
 - User & Signed Build
 - Init QPR2 Infinity
 - Added Dolby
@@ -11,4 +11,4 @@ Device Changelogs :-
 - Enable full ART optimizations with VDEX/ODEX
 - Apply dex2oat optimizations
 - Update wifi hal interfaces combination
-==============================================================================
+===================================================
