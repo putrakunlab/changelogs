@@ -1,0 +1,14 @@
+Device Changelogs :-
+==============================================================================
+- User & Signed Build
+- Init QPR2 Infinity
+- Added Dolby
+- Added OTA Support
+- Drop force triple frame buffers
+- adjust lmkd minfree & psi
+- Fully Fixed Lags On Some Apps
+- Dropped Unused Codecs & Overlay
+- Enable full ART optimizations with VDEX/ODEX
+- Apply dex2oat optimizations
+- Update wifi hal interfaces combination
+==============================================================================
